@@ -6,3 +6,4 @@
 "hii i an nithya" 
 "we are bff" 
 "hello i am soo beautiful" 
+"i love myself" 
